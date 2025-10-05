@@ -17,6 +17,13 @@ Useful when:
 
 ---
 
+## 🎥 Video Guide
+
+Here’s a quick video tutorial for the script:  
+👉 [https://youtu.be/ehVe1Obpbyg](https://youtu.be/ehVe1Obpbyg)
+
+---
+
 ## ⚙️ Requirements
 
 - **macOS Tahoe 26**
